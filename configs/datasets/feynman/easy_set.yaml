@@ -1,31 +1,31 @@
 FeynmanICh12Eq1:
   output_dir: './resource/datasets/srsd/easy_set/'
   output_ext: '.txt'
-  sample_size: 10000
+  sample_size: 30000
   kwargs:
 
 FeynmanICh12Eq4:
   output_dir: './resource/datasets/srsd/easy_set/'
   output_ext: '.txt'
-  sample_size: 10000
+  sample_size: 30000
   kwargs:
 
 FeynmanICh12Eq5:
   output_dir: './resource/datasets/srsd/easy_set/'
   output_ext: '.txt'
-  sample_size: 10000
+  sample_size: 30000
   kwargs:
 
 FeynmanICh14Eq3:
   output_dir: './resource/datasets/srsd/easy_set/'
   output_ext: '.txt'
-  sample_size: 10000
+  sample_size: 30000
   kwargs:
 
 FeynmanICh14Eq4:
   output_dir: './resource/datasets/srsd/easy_set/'
   output_ext: '.txt'
-  sample_size: 10000
+  sample_size: 30000
   kwargs:
 
 FeynmanICh18Eq12:
